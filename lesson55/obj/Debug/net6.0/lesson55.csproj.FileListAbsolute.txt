@@ -1,0 +1,15 @@
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\bin\Debug\net6.0\lesson55.exe
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\bin\Debug\net6.0\lesson55.deps.json
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\bin\Debug\net6.0\lesson55.runtimeconfig.json
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\bin\Debug\net6.0\lesson55.dll
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\bin\Debug\net6.0\lesson55.pdb
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\obj\Debug\net6.0\lesson55.csproj.AssemblyReference.cache
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\obj\Debug\net6.0\lesson55.GeneratedMSBuildEditorConfig.editorconfig
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\obj\Debug\net6.0\lesson55.AssemblyInfoInputs.cache
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\obj\Debug\net6.0\lesson55.AssemblyInfo.cs
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\obj\Debug\net6.0\lesson55.csproj.CoreCompileInputs.cache
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\obj\Debug\net6.0\lesson55.dll
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\obj\Debug\net6.0\refint\lesson55.dll
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\obj\Debug\net6.0\lesson55.pdb
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\obj\Debug\net6.0\lesson55.genruntimeconfig.cache
+E:\домашнее задание\папка изучение C# 1 урок\wer23\lesson55\obj\Debug\net6.0\ref\lesson55.dll
